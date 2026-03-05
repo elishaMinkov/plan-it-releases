@@ -2,17 +2,22 @@
 
 ## Overview
 
-Plan It Releases is a project designed to streamline and manage project releases effectively. The goal is to provide users with a structured approach to planning, executing, and tracking software releases.
+Plan It Releases is a dedicated repository for publishing and managing official releases of the **plan-it** program. This repository serves as the central distribution point for all plan-it versions and release notes.
 
-## Features
-- Intuitive interface for release management
-- Support for multiple projects
-- Easy tracking of release notes and updates
-- Integration with version control systems
+The actual plan-it program is maintained in a separate repository. This repository is used exclusively for version releases, release management, and distribution.
+
+## Purpose
+
+- Publish official versions of the plan-it program
+- Maintain comprehensive release notes and documentation
+- Provide a centralized location for downloading plan-it releases
+- Track version history and changelog
 
 ## Getting Started
 
-To get started, clone the repository and check out the documentation for detailed instructions on setup and usage.
+To download the latest version of plan-it, check out the [Releases](https://github.com/elishaMinkov/plan-it-releases/releases) page.
+
+For information about plan-it development, features, and bug reports, please visit the main plan-it repository.
 
 ## Contributing
 
